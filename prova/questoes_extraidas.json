@@ -1,0 +1,22 @@
+[
+    {
+        "numero": "136",
+        "enunciado": "Uma empresa produz mochilas escolares sob encomenda. Essa empresa tem um custo total de produção, composto por um custo fixo, que não depende do número de mochilas, mais um custo variável, que é proporcional ao número de mochilas produzidas. O custo total cresce de forma linear, e a tabela apresenta esse custo para três quantidades de mochilas produzidas. Quantidade de 30 50 100 mochilas Custo total (R$) 1050, 001650, 003150, 00 O custo total, em real, para a produção de 80 mochilas será OQ 2400, 00.",
+        "alternativas": {
+            "A": "2520",
+            "B": "2550",
+            "C": "2700"
+        }
+    },
+    {
+        "numero": "138",
+        "enunciado": "Uma empresa de engenharia foi contratada para realizar um serviço no valor de R$ 71250, 00. Os sócios da empresa decidiram que 40% desse valor seria destinado ao pagamento de três engenheiros que gerenciaram o serviço. O pagamento para cada um deles será feito de forma diretamente proporcional ao total de horas trabalhadas. O número de dias e o número de horas diárias trabalhadas pelos engenheiros foram, respectivamente: * engenheiro I: 4 dias, numa jornada de 5 horas e meia por dia; * engenheiro II: 5 dias, numa jornada de 4 horas por dia; * engenheiro IIl: 6 dias, numa jornada de 2 horas e meia por dia. Qual a maior diferença, em real, entre os valores recebidos por esse serviço entre dois desses engenheiros?",
+        "alternativas": {
+            "A": "1000",
+            "B": "1500",
+            "C": "3500",
+            "D": "3800",
+            "E": "5250"
+        }
+    }
+]

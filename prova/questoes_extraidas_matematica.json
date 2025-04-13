@@ -1,0 +1,15 @@
+[
+    {
+        "numero": 136,
+        "texto_principal": "QQUESTÃO 136 Uma empresa produz mochilas escolares sob encomenda. Essa empresa tem um custo total de produção, composto por um custo fixo, que não depende do número de mochilas, mais um custo variável, que é proporcional ao número de mochilas produzidas. O custo total cresce de forma linear, e a tabela apresenta esse custo para três quantidades de mochilas produzidas.",
+        "enunciado": "custo total, em real, para a produção de 80 mochilas será O",
+        "alternativas": {
+            "A": "2400,00",
+            "B": "2520,00",
+            "C": "2550,00",
+            "D": "2700,00",
+            "E": "2800,00"
+        },
+        "imagem_acessorio": "/Users/tavoralucas/Desktop/extratorProvasEnem/prova/questoes_matematica/136/imagem_acessorio_136.png"
+    }
+]
